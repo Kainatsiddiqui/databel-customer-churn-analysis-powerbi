@@ -65,19 +65,19 @@ Customer churn significantly impacts revenue and customer acquisition costs. Thi
 ## Dashboard Screenshots
 
 <h2>Dashboard 1: Executive Overview</h2>
-<img src="Executive Summary.png" width="800">
+<img src="Dashboard_Screenshots/Executive Summary.png" width="800">
 
 <h2>Dashboard 2: Customer Demographics</h2>
-<img src="Customer_Demographics.png" width="800">
+<img src="Dashboard_Screenshots/Customer_Demographics.png" width="800">
 
 <h2>Dashboard 3: Service Usage & Charges</h2>
-<img src="Service_Usage.png" width="800">
+<img src="Dashboard_Screenshots/Service_Usage.png" width="800">
 
 <h2>Dashboard 4: Churn Drivers & Segmentation</h2>
-<img src="Churn_Drivers.png" width="800">
+<img src="Dashboard_Screenshots/Churn_Drivers.png" width="800">
 
 <h2>Drill Through: Customer Details</h2>
-<img src="Drillthrough Page.png" width="800">
+<img src="Dashboard_Screenshots/Drillthrough Page.png" width="800">
 
 ## Key Insights
 - 74% of customers were retained.
