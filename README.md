@@ -1,6 +1,6 @@
 # databel-customer-churn-analysis-powerbi
 
-**Databel Customer Churn Analysis Dashboard | Power BI**
+## Databel Customer Churn Analysis Dashboard | Power BI
 
 **Project Overview**
 
@@ -13,6 +13,13 @@ Customer churn significantly impacts revenue and customer acquisition costs. Thi
 - Which customer segments have the highest churn?
 - How do service usage patterns affect churn?
 - What are the primary reasons for customer attrition?
+
+**Dataset Overview**
+
+- Industry: Telecommunications
+- Dataset Type: Customer Churn Analysis
+- Total Customers: 6,687
+- Target Variable: Churn Label
   
 **Tools Used**
 - Power BI
@@ -23,7 +30,7 @@ Customer churn significantly impacts revenue and customer acquisition costs. Thi
 - Decomposition Tree
 - Interactive Filters
   
-**Dashboard Features**
+## Dashboard Features
 
 **Executive Overview**
 - KPI Cards
@@ -47,14 +54,15 @@ Customer churn significantly impacts revenue and customer acquisition costs. Thi
 - Decomposition Tree
 - Churn Reasons Analysis
 
-**Key Insights**
-- 74% of customers were retained.
-- Month-to-month contracts account for 89% of churn.
-- Senior citizens have the highest churn rate.
-- Customers with more than 4 service calls show significantly higher churn.
-- Contract type is the strongest predictor of churn.
+**Interactive Features**
+
+- Drill-through page accessible from Contract Type, Age Group, and Customer Service Calls visuals.
+- Synchronized slicers across all dashboard pages.
+- Navigation buttons for seamless dashboard transitions.
+- Clear-all slicers functionality.
+- Interactive tooltips for enhanced data exploration.
   
-**Dashboard Screenshots**
+## Dashboard Screenshots
 
 <h2>Dashboard 1: Executive Overview</h2>
 <img src="Executive Summary.png" width="800">
@@ -71,4 +79,34 @@ Customer churn significantly impacts revenue and customer acquisition costs. Thi
 <h2>Drill Through: Customer Details</h2>
 <img src="Drillthrough Page.png" width="800">
 
+## Key Insights
+- 74% of customers were retained.
+- Month-to-month contracts account for 89% of churn.
+- Senior citizens have the highest churn rate.
+- Customers with more than 4 service calls show significantly higher churn.
+- Contract type is the strongest predictor of churn.
+  
+## Business Recommendations
+
+Based on the analysis, the following actions are recommended:
+
+- Encourage customers to switch from month-to-month contracts to yearly contracts through loyalty discounts and promotional offers.
+- Improve customer support experience, as customers with multiple service calls exhibit significantly higher churn.
+- Implement targeted retention campaigns for high-risk customer segments identified through churn analysis.
+- Offer personalized plans and incentives to senior customers to improve retention.
+- Monitor customers with high monthly charges and proactively engage them through customer success programs.
+  
+## Technical Skills Demonstrated
+
+- Power BI Dashboard Development
+- Data Cleaning
+- Data Modeling
+- DAX Measures
+- KPI Design
+- Drill Through
+- Decomposition Tree
+- Key Influencers
+- Data Storytelling
+- Business Intelligence
+  
 **THANK YOU**!
