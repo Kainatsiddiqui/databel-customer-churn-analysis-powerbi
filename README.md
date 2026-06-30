@@ -1,5 +1,3 @@
-# databel-customer-churn-analysis-powerbi
-
 ## Databel Customer Churn Analysis Dashboard | Power BI
 
 **Project Overview**
