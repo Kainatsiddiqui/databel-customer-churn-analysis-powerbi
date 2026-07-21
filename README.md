@@ -1,10 +1,28 @@
 ## Databel Customer Churn Analysis Dashboard | Power BI
 
-**Project Overview**
+### Project Overview
 
 This project analyzes customer churn behavior in a telecom company using Power BI. The objective is to identify customer segments with high churn probability and uncover key factors influencing customer attrition.
 
-**Business Problem**
+---
+
+### 📷 Dashboard Preview
+
+<h2>Dashboard 1: Executive Overview</h2>
+<img src="Screenshots/analysis_summary.png" width="800">
+
+<h2>Dashboard 2: Customer Demographics</h2>
+<img src="Screenshots/demographics_analysis.png" width="800">
+
+<h2>Dashboard 3: Service Usage & Charges</h2>
+<img src="Screenshots/usage&charges_analysis.png" width="800">
+
+<h2>Dashboard 4: Churn Drivers & Segmentation</h2>
+<img src="Screenshots/prediction_analysis.png" width="800">
+
+---
+
+### Business Problem
 
 Customer churn significantly impacts revenue and customer acquisition costs. This dashboard helps answer:
 - Which customers are most likely to churn?
@@ -12,14 +30,18 @@ Customer churn significantly impacts revenue and customer acquisition costs. Thi
 - How do service usage patterns affect churn?
 - What are the primary reasons for customer attrition?
 
-**Dataset Overview**
+---
+
+### Dataset Overview
 
 - Industry: Telecommunications
 - Dataset Type: Customer Churn Analysis
 - Total Customers: 6,687
 - Target Variable: Churn Label
-  
-**Tools Used**
+
+---
+
+### Tools Used
 - Power BI
 - DAX
 - Data Modeling
@@ -27,8 +49,10 @@ Customer churn significantly impacts revenue and customer acquisition costs. Thi
 - Key Influencers
 - Decomposition Tree
 - Interactive Filters
-  
-## Dashboard Features
+
+---
+
+### Dashboard Features
 
 **Executive Overview**
 - KPI Cards
@@ -59,32 +83,19 @@ Customer churn significantly impacts revenue and customer acquisition costs. Thi
 - Navigation buttons for seamless dashboard transitions.
 - Clear-all slicers functionality.
 - Interactive tooltips for enhanced data exploration.
-  
-## Dashboard Screenshots
 
-<h2>Dashboard 1: Executive Overview</h2>
-<img src="Dashboard_Screenshots/Executive Summary.png" width="800">
+---
 
-<h2>Dashboard 2: Customer Demographics</h2>
-<img src="Dashboard_Screenshots/Customer_Demographics.png" width="800">
-
-<h2>Dashboard 3: Service Usage & Charges</h2>
-<img src="Dashboard_Screenshots/Service_Usage.png" width="800">
-
-<h2>Dashboard 4: Churn Drivers & Segmentation</h2>
-<img src="Dashboard_Screenshots/Churn_Drivers.png" width="800">
-
-<h2>Drill Through: Customer Details</h2>
-<img src="Dashboard_Screenshots/Drillthrough Page.png" width="800">
-
-## Key Insights
+### Key Insights
 - 74% of customers were retained.
 - Month-to-month contracts account for 89% of churn.
 - Senior citizens have the highest churn rate.
 - Customers with more than 4 service calls show significantly higher churn.
 - Contract type is the strongest predictor of churn.
-  
-## Business Recommendations
+
+---
+
+### Business Recommendations
 
 Based on the analysis, the following actions are recommended:
 
@@ -93,8 +104,10 @@ Based on the analysis, the following actions are recommended:
 - Implement targeted retention campaigns for high-risk customer segments identified through churn analysis.
 - Offer personalized plans and incentives to senior customers to improve retention.
 - Monitor customers with high monthly charges and proactively engage them through customer success programs.
-  
-## Technical Skills Demonstrated
+
+---
+
+### Technical Skills Demonstrated
 
 - Power BI Dashboard Development
 - Data Cleaning
@@ -107,4 +120,7 @@ Based on the analysis, the following actions are recommended:
 - Data Storytelling
 - Business Intelligence
   
-**THANK YOU**!
+---
+
+## 👨‍💻 Author
+**Kainat Siddiqui**
